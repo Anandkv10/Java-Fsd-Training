@@ -1,4 +1,4 @@
- package com.ust.exaample;
+ package com.ust.example;
 
 public class Studentpro {
 
